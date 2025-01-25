@@ -1,2 +1,1 @@
-# pricing-calculator
-hiring challenge
+ 
